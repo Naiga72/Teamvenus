@@ -71,7 +71,7 @@ img{
     
 }
 body{
-    background-image: url(pic.jpg);
+    background-image: url(./pic.jpg);
     background-size: cover;
     padding: 0;
     margin: 0;
